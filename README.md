@@ -1,2 +1,3 @@
 # works
-2023年度入学生-作品ページ
+[2022年度入学生作品集](https://datgm22.github.io/works)
+
